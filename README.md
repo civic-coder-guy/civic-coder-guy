@@ -1,6 +1,9 @@
 ### Hi there 👋
 🌱 I’m currently learning Python. (Taking the 100 Days of Code: The Compete Python Pro Bootcamp with App Brewery on Udem.)
+🔭 I’m currently working on learning to create a PyGame while using Code this Game! book by Meg Ray.
+🔭 I’m currently working on teaching my kids how to create a webpage using the book Get Coding! by Young Rewired State.
 
+⚡ Fun fact: I retire from the U.S. Army in July 2023!
 Great Tools and Resources<br>
 [diagrams.net](https://www.diagrams.net/)
 <!--
