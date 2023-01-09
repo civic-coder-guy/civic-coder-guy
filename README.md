@@ -1,5 +1,8 @@
 ### Hi there 👋
+🌱 I’m currently learning Python. (Taking the 100 Days of Code: The Compete Python Pro Bootcamp with App Brewery on Udem.)
 
+Great Tools and Resources
+<a href="https://www.diagrams.net/>diagrams.net</a> (Formally draw.io)
 <!--
 **civic-coder-guy/civic-coder-guy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
